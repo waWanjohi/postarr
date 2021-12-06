@@ -1,3 +1,3 @@
 # postarr
-A simple blog app in django.
+A blogging app in django.
 [link to the app](http://djempy.pythonanywhere.com)
